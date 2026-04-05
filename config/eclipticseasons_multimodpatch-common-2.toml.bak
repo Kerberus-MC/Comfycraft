@@ -1,0 +1,34 @@
+#InControl
+[incontrol]
+	Enable = true
+
+#Snowy Spirit
+[snowyspirit]
+	Enable = true
+	#Enable special time with SnowySpirit.
+	SpecialTime = true
+	#Solar Terms in which Snowy Spirit villager AI behaviors will be active.
+	WinterTime = ["BEGINNING_OF_WINTER", "LIGHT_SNOW", "HEAVY_SNOW", "WINTER_SOLSTICE", "LESSER_COLD", "GREATER_COLD"]
+
+#Domum Ornamentum
+[domum_ornamentum]
+	#Enable automatic snow-covered blocks and models.
+	Enable = true
+
+#MineColonies
+[minecolonies]
+	Enable = true
+	# Default: 12000
+	# Range: 1 ~ 23999
+	AverageNightTime = 12000
+	# Default: 1000
+	# Range: -6000 ~ 6000
+	CheckSleepOffset = 1000
+
+#Xaero's World Map
+[xaeroworldmap]
+	Enable = true
+
+#Xaero's Minimap
+[xaerominimap]
+	Enable = true
